@@ -1,0 +1,11 @@
+#addon_invoice_payment_infoinstalled .bg-icon,
+#addon_invoice_payment_info .bg-icon {
+    background-image: url('../../../media/images/addons/invoice_payment_info/icon.png');
+    background-size: contain;
+    border: 0px;
+}
+
+#addon_invoice_payment_infoinstalled .bg-icon i,
+#addon_invoice_payment_info .bg-icon i {
+    display: none;
+}

@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "English"
+
+msgctxt "Addons::name::invoice_payment_info"
+msgid "Invoice Payment Info"
+msgstr "Invoice Payment Info"
+
+msgctxt "Addons::description::invoice_payment_info"
+msgid "Adds PO Number variable to the invoice template. Developed by <a target=\"_blank\" href=\"https://lesniakswann.com/\">Lesniak Swann</a>."
+msgstr "Adds PO Number variable to the invoice template. Developed by <a target=\"_blank\" href=\"https://lesniakswann.com/\">Lesniak Swann</a>."
